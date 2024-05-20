@@ -1,0 +1,382 @@
+nohup: ignoring input
+start!
+第0个分类器，epoch为1/5，Loss: 1.7392816841602325
+
+Train set: Average loss: 1.4093, Accuracy: 1135/2800 (40.5357%)
+
+
+Test set: Average loss: 1.4267, Accuracy: 448/1200 (37.3333%)
+
+第0个分类器，epoch为2/5，Loss: 1.280821759592403
+
+Train set: Average loss: 1.1702, Accuracy: 1822/2800 (65.0714%)
+
+
+Test set: Average loss: 1.2015, Accuracy: 657/1200 (54.7500%)
+
+第0个分类器，epoch为3/5，Loss: 1.0934652550653978
+
+Train set: Average loss: 1.0034, Accuracy: 2224/2800 (79.4286%)
+
+
+Test set: Average loss: 1.0412, Accuracy: 874/1200 (72.8333%)
+
+第0个分类器，epoch为4/5，Loss: 0.9394483904946934
+
+Train set: Average loss: 0.8787, Accuracy: 2348/2800 (83.8571%)
+
+
+Test set: Average loss: 0.9170, Accuracy: 948/1200 (79.0000%)
+
+第0个分类器，epoch为5/5，Loss: 0.8221219168467955
+
+Train set: Average loss: 0.7822, Accuracy: 2366/2800 (84.5000%)
+
+
+Test set: Average loss: 0.8264, Accuracy: 964/1200 (80.3333%)
+
+Ensemble Train Accuracy: 84.50%
+Ensemble Test Accuracy: 80.33%
+__________________________
+第1个分类器，epoch为1/5，Loss: 1.5671910562298514
+
+Train set: Average loss: 1.2920, Accuracy: 1443/2800 (51.5357%)
+
+
+Test set: Average loss: 1.3114, Accuracy: 539/1200 (44.9167%)
+
+第1个分类器，epoch为2/5，Loss: 1.2264268018982627
+
+Train set: Average loss: 1.1580, Accuracy: 1911/2800 (68.2500%)
+
+
+Test set: Average loss: 1.1945, Accuracy: 788/1200 (65.6667%)
+
+第1个分类器，epoch为3/5，Loss: 1.121265638958324
+
+Train set: Average loss: 1.0554, Accuracy: 2022/2800 (72.2143%)
+
+
+Test set: Average loss: 1.1067, Accuracy: 785/1200 (65.4167%)
+
+第1个分类器，epoch为4/5，Loss: 1.0127291571010242
+
+Train set: Average loss: 0.9638, Accuracy: 2208/2800 (78.8571%)
+
+
+Test set: Average loss: 1.0260, Accuracy: 886/1200 (73.8333%)
+
+第1个分类器，epoch为5/5，Loss: 0.9112376773899252
+
+Train set: Average loss: 0.8880, Accuracy: 2272/2800 (81.1429%)
+
+
+Test set: Average loss: 0.9596, Accuracy: 907/1200 (75.5833%)
+
+Ensemble Train Accuracy: 85.86%
+Ensemble Test Accuracy: 82.67%
+__________________________
+第2个分类器，epoch为1/5，Loss: 1.980016830292615
+
+Train set: Average loss: 1.4484, Accuracy: 1618/2800 (57.7857%)
+
+
+Test set: Average loss: 1.4499, Accuracy: 642/1200 (53.5000%)
+
+第2个分类器，epoch为2/5，Loss: 1.3246362588622353
+
+Train set: Average loss: 1.2293, Accuracy: 1876/2800 (67.0000%)
+
+
+Test set: Average loss: 1.2468, Accuracy: 744/1200 (62.0000%)
+
+第2个分类器，epoch为3/5，Loss: 1.1605542600154877
+
+Train set: Average loss: 1.1009, Accuracy: 2052/2800 (73.2857%)
+
+
+Test set: Average loss: 1.1281, Accuracy: 852/1200 (71.0000%)
+
+第2个分类器，epoch为4/5，Loss: 1.046927964145487
+
+Train set: Average loss: 0.9969, Accuracy: 2202/2800 (78.6429%)
+
+
+Test set: Average loss: 1.0361, Accuracy: 903/1200 (75.2500%)
+
+第2个分类器，epoch为5/5，Loss: 0.9629256251183423
+
+Train set: Average loss: 0.9127, Accuracy: 2308/2800 (82.4286%)
+
+
+Test set: Average loss: 0.9614, Accuracy: 929/1200 (77.4167%)
+
+Ensemble Train Accuracy: 86.07%
+Ensemble Test Accuracy: 83.50%
+__________________________
+第3个分类器，epoch为1/5，Loss: 2.024905876679854
+
+Train set: Average loss: 1.7293, Accuracy: 597/2800 (21.3214%)
+
+
+Test set: Average loss: 1.7256, Accuracy: 299/1200 (24.9167%)
+
+第3个分类器，epoch为2/5，Loss: 1.568672318350185
+
+Train set: Average loss: 1.4329, Accuracy: 1174/2800 (41.9286%)
+
+
+Test set: Average loss: 1.4420, Accuracy: 475/1200 (39.5833%)
+
+第3个分类器，epoch为3/5，Loss: 1.3397079055959529
+
+Train set: Average loss: 1.2521, Accuracy: 1796/2800 (64.1429%)
+
+
+Test set: Average loss: 1.2729, Accuracy: 717/1200 (59.7500%)
+
+第3个分类器，epoch为4/5，Loss: 1.1926419518210671
+
+Train set: Average loss: 1.1168, Accuracy: 2168/2800 (77.4286%)
+
+
+Test set: Average loss: 1.1474, Accuracy: 904/1200 (75.3333%)
+
+第3个分类器，epoch为5/5，Loss: 1.0739953409541736
+
+Train set: Average loss: 1.0088, Accuracy: 2307/2800 (82.3929%)
+
+
+Test set: Average loss: 1.0485, Accuracy: 958/1200 (79.8333%)
+
+Ensemble Train Accuracy: 87.43%
+Ensemble Test Accuracy: 84.17%
+__________________________
+第4个分类器，epoch为1/5，Loss: 2.3196635354648936
+
+Train set: Average loss: 2.2951, Accuracy: 700/2800 (25.0000%)
+
+
+Test set: Average loss: 2.2951, Accuracy: 300/1200 (25.0000%)
+
+第4个分类器，epoch为2/5，Loss: 2.27143838188865
+
+Train set: Average loss: 2.2458, Accuracy: 700/2800 (25.0000%)
+
+
+Test set: Average loss: 2.2458, Accuracy: 300/1200 (25.0000%)
+
+第4个分类器，epoch为3/5，Loss: 2.223345333879644
+
+Train set: Average loss: 2.1991, Accuracy: 700/2800 (25.0000%)
+
+
+Test set: Average loss: 2.1991, Accuracy: 300/1200 (25.0000%)
+
+第4个分类器，epoch为4/5，Loss: 2.17814241214232
+
+Train set: Average loss: 2.1550, Accuracy: 700/2800 (25.0000%)
+
+
+Test set: Average loss: 2.1550, Accuracy: 300/1200 (25.0000%)
+
+第4个分类器，epoch为5/5，Loss: 2.134184192527424
+
+Train set: Average loss: 2.1133, Accuracy: 700/2800 (25.0000%)
+
+
+Test set: Average loss: 2.1133, Accuracy: 300/1200 (25.0000%)
+
+Ensemble Train Accuracy: 87.68%
+Ensemble Test Accuracy: 84.33%
+__________________________
+第5个分类器，epoch为1/5，Loss: 2.0676106837662784
+
+Train set: Average loss: 1.8692, Accuracy: 837/2800 (29.8929%)
+
+
+Test set: Average loss: 1.8776, Accuracy: 321/1200 (26.7500%)
+
+第5个分类器，epoch为2/5，Loss: 1.7383119545199655
+
+Train set: Average loss: 1.6144, Accuracy: 1737/2800 (62.0357%)
+
+
+Test set: Average loss: 1.6283, Accuracy: 721/1200 (60.0833%)
+
+第5个分类器，epoch为3/5，Loss: 1.5278879404067993
+
+Train set: Average loss: 1.4475, Accuracy: 1897/2800 (67.7500%)
+
+
+Test set: Average loss: 1.4685, Accuracy: 768/1200 (64.0000%)
+
+第5个分类器，epoch为4/5，Loss: 1.3819169645959681
+
+Train set: Average loss: 1.3255, Accuracy: 1985/2800 (70.8929%)
+
+
+Test set: Average loss: 1.3528, Accuracy: 830/1200 (69.1667%)
+
+第5个分类器，epoch为5/5，Loss: 1.2803398045626553
+
+Train set: Average loss: 1.2275, Accuracy: 2176/2800 (77.7143%)
+
+
+Test set: Average loss: 1.2632, Accuracy: 920/1200 (76.6667%)
+
+Ensemble Train Accuracy: 88.21%
+Ensemble Test Accuracy: 84.50%
+__________________________
+第6个分类器，epoch为1/5，Loss: 1.7350314909761602
+
+Train set: Average loss: 1.3614, Accuracy: 1581/2800 (56.4643%)
+
+
+Test set: Average loss: 1.3896, Accuracy: 547/1200 (45.5833%)
+
+第6个分类器，epoch为2/5，Loss: 1.1806795353239232
+
+Train set: Average loss: 1.0365, Accuracy: 2366/2800 (84.5000%)
+
+
+Test set: Average loss: 1.0763, Accuracy: 947/1200 (78.9167%)
+
+第6个分类器，epoch为3/5，Loss: 0.9351425604386763
+
+Train set: Average loss: 0.8445, Accuracy: 2376/2800 (84.8571%)
+
+
+Test set: Average loss: 0.8962, Accuracy: 961/1200 (80.0833%)
+
+第6个分类器，epoch为4/5，Loss: 0.7878682098605416
+
+Train set: Average loss: 0.7182, Accuracy: 2429/2800 (86.7500%)
+
+
+Test set: Average loss: 0.7762, Accuracy: 976/1200 (81.3333%)
+
+第6个分类器，epoch为5/5，Loss: 0.6798928434198553
+
+Train set: Average loss: 0.6304, Accuracy: 2446/2800 (87.3571%)
+
+
+Test set: Average loss: 0.6908, Accuracy: 994/1200 (82.8333%)
+
+Ensemble Train Accuracy: 88.61%
+Ensemble Test Accuracy: 86.42%
+__________________________
+第7个分类器，epoch为1/5，Loss: 2.2672934477979485
+
+Train set: Average loss: 2.2397, Accuracy: 697/2800 (24.8929%)
+
+
+Test set: Average loss: 2.2398, Accuracy: 305/1200 (25.4167%)
+
+第7个分类器，epoch为2/5，Loss: 2.2157457145777615
+
+Train set: Average loss: 2.1903, Accuracy: 702/2800 (25.0714%)
+
+
+Test set: Average loss: 2.1914, Accuracy: 306/1200 (25.5000%)
+
+第7个分类器，epoch为3/5，Loss: 2.1661436449397695
+
+Train set: Average loss: 2.1438, Accuracy: 702/2800 (25.0714%)
+
+
+Test set: Average loss: 2.1457, Accuracy: 304/1200 (25.3333%)
+
+第7个分类器，epoch为4/5，Loss: 2.1229271726174788
+
+Train set: Average loss: 2.0996, Accuracy: 702/2800 (25.0714%)
+
+
+Test set: Average loss: 2.1023, Accuracy: 306/1200 (25.5000%)
+
+第7个分类器，epoch为5/5，Loss: 2.0794479792768303
+
+Train set: Average loss: 2.0580, Accuracy: 703/2800 (25.1071%)
+
+
+Test set: Average loss: 2.0615, Accuracy: 308/1200 (25.6667%)
+
+Ensemble Train Accuracy: 88.64%
+Ensemble Test Accuracy: 86.58%
+__________________________
+第8个分类器，epoch为1/5，Loss: 1.598551790822636
+
+Train set: Average loss: 1.2814, Accuracy: 1619/2800 (57.8214%)
+
+
+Test set: Average loss: 1.3091, Accuracy: 638/1200 (53.1667%)
+
+第8个分类器，epoch为2/5，Loss: 1.1476221518083052
+
+Train set: Average loss: 1.0339, Accuracy: 1954/2800 (69.7857%)
+
+
+Test set: Average loss: 1.0665, Accuracy: 778/1200 (64.8333%)
+
+第8个分类器，epoch为3/5，Loss: 0.9467776973139156
+
+Train set: Average loss: 0.8704, Accuracy: 2193/2800 (78.3214%)
+
+
+Test set: Average loss: 0.9068, Accuracy: 875/1200 (72.9167%)
+
+第8个分类器，epoch为4/5，Loss: 0.8175188858400692
+
+Train set: Average loss: 0.7567, Accuracy: 2323/2800 (82.9643%)
+
+
+Test set: Average loss: 0.7913, Accuracy: 940/1200 (78.3333%)
+
+第8个分类器，epoch为5/5，Loss: 0.7049168863079764
+
+Train set: Average loss: 0.6730, Accuracy: 2344/2800 (83.7143%)
+
+
+Test set: Average loss: 0.7113, Accuracy: 953/1200 (79.4167%)
+
+Ensemble Train Accuracy: 88.29%
+Ensemble Test Accuracy: 85.67%
+__________________________
+第9个分类器，epoch为1/5，Loss: 1.8830566568808123
+
+Train set: Average loss: 1.5585, Accuracy: 1376/2800 (49.1429%)
+
+
+Test set: Average loss: 1.5756, Accuracy: 474/1200 (39.5000%)
+
+第9个分类器，epoch为2/5，Loss: 1.3626839572733098
+
+Train set: Average loss: 1.1873, Accuracy: 2104/2800 (75.1429%)
+
+
+Test set: Average loss: 1.2126, Accuracy: 843/1200 (70.2500%)
+
+第9个分类器，epoch为3/5，Loss: 1.0730265080928802
+
+Train set: Average loss: 0.9607, Accuracy: 2279/2800 (81.3929%)
+
+
+Test set: Average loss: 0.9932, Accuracy: 925/1200 (77.0833%)
+
+第9个分类器，epoch为4/5，Loss: 0.8871837353164499
+
+Train set: Average loss: 0.8105, Accuracy: 2343/2800 (83.6786%)
+
+
+Test set: Average loss: 0.8489, Accuracy: 958/1200 (79.8333%)
+
+第9个分类器，epoch为5/5，Loss: 0.7568594285032966
+
+Train set: Average loss: 0.7051, Accuracy: 2374/2800 (84.7857%)
+
+
+Test set: Average loss: 0.7483, Accuracy: 977/1200 (81.4167%)
+
+Ensemble Train Accuracy: 88.50%
+Ensemble Test Accuracy: 84.75%
+__________________________
