@@ -1,5 +1,4 @@
-import torch.nn as nn
-import torch
+import torch.nn as nn 
 import torchquantum as tq
 import torch.nn.functional as F
 from tqdm import tqdm
